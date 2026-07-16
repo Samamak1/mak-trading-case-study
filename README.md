@@ -1,6 +1,6 @@
-# Trade with MAK: Founder-Led Program and Operations Case Study (2021-2023)
+# Trade with MAK: Founder-Led Subscription Program Case Study
 
-> **Status - historical portfolio case study:** This repository documents a subscription education and community program operated in 2021-2023. It was assembled in 2026 from retained business records and artifacts. It is not a live service, current market guidance, investment advice, or a claim of investment performance.
+> **Status - historical portfolio case study:** Broader founder-led MAK work dates to 2019, while the retained records in this repository document subscription-community groundwork in late 2021, monetization during 2022-2023, and paid-community closeout in 2023. The MAK name continues as a historical education and portfolio label, not a current paid subscription service. This repository is not current market guidance, investment advice, or a claim of investment performance.
 
 Trade with MAK was a paid education community for options day traders. This case study focuses on the program I helped build and operate: launch planning, acquisition, onboarding, curriculum, daily content operations, community systems, commerce, platform migration, privacy controls, and closeout.
 
@@ -8,9 +8,10 @@ Trade with MAK was a paid education community for options day traders. This case
 
 | Area | Scope |
 |---|---|
-| Role | Co-founder, 50% owner, public-facing program lead |
-| Organization | MAK Trading LLC, a Kansas LLC |
-| Operating period | 2021-2023 |
+| Role | Founder and public-facing program lead |
+| Organization | Founder-led MAK Trading / Trade with MAK program |
+| Broader founder timeline | 2019-present; current use is historical stewardship and bounded portfolio work, not a live paid community |
+| Subscription-program period | Late 2021-2023; monetized primarily during 2022-2023 and closed out in 2023 |
 | Members served | Approximately 2,000 community members across channels; founder-reported footprint |
 | Paid relationships | 1,200+ cumulative paid subscribers across the program lifetime; founder-reported, not concurrent |
 | Delivery model | Subscription access, live community operations, structured education, recurring content, and member support |
@@ -18,7 +19,7 @@ Trade with MAK was a paid education community for options day traders. This case
 
 ## My role
 
-I shared ownership of the business and led the member-facing program. My responsibilities included:
+I helped found the business and led the member-facing program. My responsibilities included:
 
 - translating the concept into a launch plan, offer structure, onboarding flow, and operating cadence;
 - building the Discord information architecture and coordinating moderation, administration, and member support;
@@ -45,11 +46,13 @@ These figures describe community and subscription operations. They do not descri
 
 ## Timeline
 
+- **2019-2021 - broader MAK foundation:** the public portfolio records founder-led MAK work beginning in November 2019; the retained subscription-program artifacts in this repository begin with late-2021 groundwork.
 - **Late 2021 - groundwork:** developed the brand, Discord structure, content templates, operating routines, and early social presence.
 - **January 2022 - public launch:** subscriptions ran through LaunchPass and Stripe, which gated access to the Discord server. Launch work included an early-bird offer of $29.95 per month for the first three months against the standard $89.95 price, a launch-review contest, and a MacBook community contest.
 - **2022 - program expansion:** added the MAK Trading School curriculum, daily recaps, weekly chart reviews, Sunday discussions, seasonal campaigns, and the historical 25K Challenge content concept documented in a companion repository.
 - **Late 2022 - platform migration:** moved from LaunchPass to WordPress and MemberPress to gain greater control of billing, onboarding, pricing, and content delivery.
-- **2023 - closeout:** wound down the community and the LLC rather than continuing an operating model that depended too heavily on one person's daily delivery.
+- **2023 - paid-community closeout:** wound down the subscription service and LLC rather than continuing an operating model that depended too heavily on one person's daily delivery.
+- **Post-2023 - historical stewardship:** retained and sanitized selected curriculum, product concepts, and operating evidence for portfolio use; no current paid-community operation is claimed.
 
 ## Program workstreams
 
@@ -88,7 +91,7 @@ The initial stack used LaunchPass and Stripe for payment and Discord access. The
 ## Repository contents
 
 - `brand/` - representative logo and banner assets from the original and refreshed identities.
-- `marketing/` - selected launch and seasonal campaign creative, including early-bird, comparison, contest, standard-join, MacBook, and Black Friday materials.
+- `marketing/` - selected launch and seasonal campaign creative, including early-bird, contest, standard-join, MacBook, and Black Friday materials. A historical competitor-comparison graphic was removed because its market and performance-adjacent claims were not independently supported.
 
 No member-identifying data, brokerage records, account statements, or member-level payment records are included.
 
